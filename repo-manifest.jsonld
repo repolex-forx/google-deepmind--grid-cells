@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/grid-cells/commit/d1a2304d9a54e5ead676af577a38d4d87aa73041",
       "git:hexsha": "d1a2304d9a54e5ead676af577a38d4d87aa73041",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
