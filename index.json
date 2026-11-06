@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "grid-cells",
+  "versions": [
+    {
+      "commit": "d1a2304d9a54e5ead676af577a38d4d87aa73041",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:12:41.253229+00:00"
+    }
+  ]
+}
