@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "google-deepmind",
+  "repo": "grid-cells",
+  "versions": [
+    {
+      "commit": "d1a2304d9a54e5ead676af577a38d4d87aa73041",
+      "parsed_at": "2026-11-06T08:10:20.653136+00:00",
+      "filetree": "filetree/d1a2304d9a54e5ead676af577a38d4d87aa73041.nq.gz",
+      "blobs": [
+        "blob/329f58a519c9b7abaffd5cd5031e04474a28f2ea.nq.gz",
+        "blob/0c7f0e52b0de9771aa86030b7c27797770313b26.nq.gz",
+        "blob/33526480765fab5e4a69f6662d6bdb96eefacb0f.nq.gz",
+        "blob/2f393ea1327fbde743b8075619657e668dfadf64.nq.gz",
+        "blob/8494e6046f764dc93d6f0c2b2fe832910b9a9900.nq.gz",
+        "blob/db177d4ac70f76c2172ce65ca33c830d6cbd3ac5.nq.gz",
+        "blob/06e9c6e8f3b32d5fce4a6ffd5f5ba0432f62a59c.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/b725015e05887af933a0e915958525ec862955bf.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
